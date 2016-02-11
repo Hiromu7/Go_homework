@@ -1,0 +1,12 @@
+2回繰り返した結果、引数リストが長くなっても実行時間に変化はあまりみられない
+
+0.39s    70300  https://www.facebook.com/
+0.80s    54537  https://www.wikipedia.org/
+0.92s   251114  https://twitter.com/
+0.92s elapsed
+
+C:\Go\src\ren_1_10>go run ren_1_10.go https://www.facebook.com/ https://twitter.com/ https://www.wikipedia.org/
+0.40s    70243  https://www.facebook.com/
+0.59s    54537  https://www.wikipedia.org/
+0.74s   251114  https://twitter.com/
+0.74s elapsed

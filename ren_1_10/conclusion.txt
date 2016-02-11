@@ -1,0 +1,9 @@
+2‰ñŒJ‚è•Ô‚µ‚½Œ‹‰ÊAŽÀsŽžŠÔ‚É•Ï‰»‚Í‚ ‚Ü‚è‚Ý‚ç‚ê‚È‚¢(2‰ñ–Ú‚Í1‰ñ–Ú‚Ì”¼•ª‚É‚È‚Á‚½)
+
+C:\Go\src\ren_1_10>go run ren_1_10.go http://www.rakuten.co.jp/
+0.08s   322678  http://www.rakuten.co.jp/
+0.08s elapsed
+
+C:\Go\src\ren_1_10>go run ren_1_10.go http://www.rakuten.co.jp/
+0.04s   322678  http://www.rakuten.co.jp/
+0.04s elapsed
